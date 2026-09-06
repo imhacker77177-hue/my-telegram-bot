@@ -3,7 +3,7 @@ from telebot import types
 import sqlite3
 
 # --- আপনার তথ্যসমূহ ---
-API_TOKEN = '8981334551:AAEdydP5cgyrGR6SoDHbE2j-d0g0LBigcuQ'
+API_TOKEN = '8981334551:AAGA86NDDSDEBKBAU84icOjEb49rtzn8L6o'
 ADMIN_ID = 7411218371
 ADMIN_USERNAME = "@numberhubbot_bd"
 
